@@ -1,0 +1,80 @@
+
+
+.AreaProducts{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: #FFF;
+}
+
+.products{
+    display: block;
+}
+
+.leftProduct{
+width: 20%;
+
+}
+
+.rightProduct{
+width: 80%;
+background-color: #F3F3F3;
+padding: 40px;
+}
+
+.title{
+    font-size: 24px;
+}
+
+.usuario{
+    margin-left: 10px;
+}
+
+.logoUsu {
+    padding-top: 70px;
+    margin-left: 40px;
+    width: 190px;
+}
+
+.botoes{
+    margin-top: 20px;
+    width: 90%;
+    float: right;
+    margin-right: 0px;
+    padding: 0px !important;
+}
+
+.botao{
+    width: 80%;
+    margin-left: 10%;
+    border: 1px solid #2EAFB2;
+    border-radius: 5px;
+}
+
+.texto{
+    text-align: left;
+}
+
+.botao_ativo{
+    width: 80%;
+    margin-left: 20%;
+    background-color: #F3F3F3;
+    border: 1px solid #F3F3F3 !important;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    color: rgb(90, 90, 90);
+    text-align: left;
+}
+
+.icon_ativo{
+    height: 9px;
+    padding-right: 10px;
+}
+
+.icon_desativado{
+    height: 18px;
+    padding-right: 10px;
+}
+

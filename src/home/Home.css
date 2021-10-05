@@ -1,0 +1,84 @@
+body {
+    background-color:  #FF6C22 !important;
+}
+  
+span{
+color: #FF6C22;
+}
+
+input{
+    margin-top: 10px !important;
+    padding: 10px;
+    border: 1px solid #AAA;
+    border-radius: 5px;
+    width: 300px;
+}
+.form{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+button{
+    margin-top: 10px !important;
+    padding: 10px;
+    width: 150px;
+    background-color: #2EAFB2;
+    color: #FFF;
+    border: 1px solid #2EAFB2;
+    border-radius: 5px !important;
+}
+
+.title{
+color: #AAA;
+font-size: 28px;
+}
+
+.titleDiv{
+    padding-bottom: 40px;
+}
+
+.Area{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.AreaLogin{
+    display: flex;
+    height: 512px;
+    width: 857px;
+    margin-top: 15vh;
+    border-radius: 4px;
+}
+
+.leftAreaLogin{
+    height: 512px;
+    width: 468px;
+    background-color: #FFFFFF;
+}
+
+.rightAreaLogin{
+    height: 512px;
+    width: 389px;
+    background-color: #000;
+    background-image: url('../assets/image/fundo_estrelas.png');
+
+}
+
+.logo{
+padding-top: 70px;
+margin-left: 80px;
+width: 259px;
+}
+
+.imageAbsolut{
+    position: absolute;
+    max-width: 414px;
+    width: 414px;
+    max-height: 413px;
+    height: 413px;
+    margin-top: 99px;
+    margin-left: 400px;
+    margin-bottom: 0vh;
+    background-image: url('../assets/image/imagem_note.png');
+}
